@@ -1,0 +1,63 @@
+{
+  "category": "artifact-repositories",
+  "created_date": "2025-09-15T22:48:57.213145",
+  "default_ports": [
+    80,
+    443,
+    8081
+  ],
+  "dependencies": [
+    "java-11-openjdk"
+  ],
+  "description": "artifactory is a free and open-source universal repository manager. Artifactory provides universal repository management for all major package formats",
+  "difficulty_level": "intermediate",
+  "documentation_url": "https://howtomgr.github.io/artifact-repositories/artifactory",
+  "estimated_setup_time": "15-30 minutes",
+  "features": [
+    "multi-os-support",
+    "comprehensive-documentation",
+    "security-hardening",
+    "performance-optimization",
+    "backup-restore-procedures",
+    "troubleshooting-guides"
+  ],
+  "guide_path": "/artifact-repositories/artifactory",
+  "installation_methods": [
+    "native-packages",
+    "source-compilation"
+  ],
+  "last_updated": "2025-09-15T22:48:57.213165",
+  "license": "Open Source",
+  "maintenance_status": "active",
+  "name": "artifactory",
+  "repository_url": "https://github.com/howtomgr/artifactory",
+  "spec_version": "2.0",
+  "subcategory": "artifact-repositories",
+  "supported_os": [
+    "rhel",
+    "centos",
+    "rocky",
+    "almalinux",
+    "debian",
+    "ubuntu",
+    "arch",
+    "alpine",
+    "opensuse",
+    "sles",
+    "macos",
+    "freebsd",
+    "windows"
+  ],
+  "tags": [
+    "artifact-repositories",
+    "containerization",
+    "observability",
+    "data-storage",
+    "networking",
+    "security",
+    "data-protection"
+  ],
+  "title": "artifactory Installation Guide",
+  "version": "1.0.0",
+  "website_url": "https://howtomgr.github.io/artifact-repositories/artifactory"
+}
